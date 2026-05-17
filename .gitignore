@@ -1,0 +1,71 @@
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Eclipse
+.classpath
+.project
+.settings/
+*.launch
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Spring Boot
+*.class
+*.jar
+*.war
+*.nar
+!.mvnw
+!.mvnw.cmd
+.mvn/wrapper/maven-wrapper.properties
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# Database
+*.db
+*.sqlite
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.local
+application-local.properties
+application-dev.properties
+
+# Node (si tienes frontend)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Build
+build/
+dist/
+
+# Temp files
+*.tmp
+*.bak
+*.swp
+*~
